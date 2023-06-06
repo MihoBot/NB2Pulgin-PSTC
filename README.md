@@ -9,6 +9,11 @@ Make user whose words include "陪睡套餐"
 ### 安装
 
 - 直接将文件clone到自创文件夹即可（懒狗）
+- 需要pathlib库和yaml库
+```
+pip install pathlib
+pip install yaml
+```
 
 ### 使用
 
